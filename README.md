@@ -4,9 +4,6 @@
 
 
 
-### Overview
-The **Z80** microprocessor is an iconic **8-bit microprocessor** with a **16-bit address bus** introduced by **Zilog** in 1976. It was widely used in early personal computers, video game consoles, and embedded systems. Known for its **simplicity** and **flexibility**, the Z80 continues to be a key part of computing history.
-
 ### Key Features
 - **16-bit address bus**: Allows access to up to **64KB of memory**.
 - **8-bit data bus**: Processes 8 bits of data at a time.

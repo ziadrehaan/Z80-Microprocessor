@@ -66,10 +66,7 @@ In this section, we explore key **Z80 instructions**, such as:
 - **Z80 Pinout**: [Link](https://youtube.com/playlist?list=PLAXuC5t8b87fGVeSjeggPTiQCKW7UHmIp&si=qryytDqDgsRIUWYE)
 - **Arduino IDE**: [Download Link](https://www.arduino.cc/en/software)
 
-## Contribution
-If you want to contribute to this project:
-- Open an **Issue** if you encounter any problems.
-- Feel free to submit a **Pull Request** to improve the code or add new content.
+<div align="right">
+<a href="mailto:zezorehan938@gmail.com">𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷</a>  
 
-## License
-This project is licensed under the **MIT License**.
+</div>

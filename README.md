@@ -1,11 +1,8 @@
 # Z80-Microprocessor
-## The Z80 microprocessor is a 16-bit processor that was introduced by Zilog in 1976. It is one of the most iconic and widely used processors of its time, and it gained significant popularity due to its use in early personal computers, video game consoles, and embedded systems.
+ Z80 microprocessor is a 16-bit processor that was introduced by Zilog in 1976. It is one of the most iconic and widely used processors of its time, and it gained significant popularity due to its use in early personal computers, video game consoles, and embedded systems.
 # Z80 with Arduino Project
 
-## Introduction
-This project demonstrates how to use the **Z80 microprocessor** in practical applications and how to interface it with an **Arduino microcontroller**. The project includes step-by-step instructions on how to wire up the Z80 on a **breadboard** and automate the read/write process using Arduino.
 
-## Z80 Microprocessor Description
 
 ### Overview
 The **Z80** microprocessor is an iconic **8-bit microprocessor** with a **16-bit address bus** introduced by **Zilog** in 1976. It was widely used in early personal computers, video game consoles, and embedded systems. Known for its **simplicity** and **flexibility**, the Z80 continues to be a key part of computing history.

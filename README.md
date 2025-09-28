@@ -66,7 +66,9 @@ In this section, we explore key **Z80 instructions**, such as:
 - **Z80 Pinout**: [Link](https://youtube.com/playlist?list=PLAXuC5t8b87fGVeSjeggPTiQCKW7UHmIp&si=qryytDqDgsRIUWYE)
 - **Arduino IDE**: [Download Link](https://www.arduino.cc/en/software)
 
-<div align="right">
-<a href="mailto:zezorehan938@gmail.com">𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷</a>  
-
-</div>
+<p align="right">
+  <img src="https://i.postimg.cc/yxy6x7F6/image.png" width="32" valign="middle">
+  <a href="mailto:zezorehan938@gmail.com" style="font-weight:bold; font-size:20px; text-decoration:underline; color:#2e89ff;">
+    𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷
+  </a>
+</p>
